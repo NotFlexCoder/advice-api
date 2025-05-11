@@ -68,6 +68,12 @@ export default async function handler(req, res) {
 }
 ```
 
+## 🛠️ Setup
+
+Watching Following Video You Can Host This Api & Gain Some Knowledge 👇
+
+[![Watch the video](https://img.youtube.com/vi/NOVCSXr9yOc/hqdefault.jpg)](https://youtu.be/NOVCSXr9yOc)
+
 ## 📝 License
 
 This project is licensed under the MIT License – see the [LICENSE](https://github.com/NotFlexCoder/advice-api/blob/main/LICENSE) file for details.
